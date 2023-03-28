@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------------------------------------------------------------
 #
-# PROJECT:            Engineering Workshop Tracker (engineeringShop)
+# PROJECT:            msmERP
 # FILE:								plugin_salesTax_AU.pro
 # SUBSYSTEM:          Project File
 # LANGUAGE:						C++
@@ -10,7 +10,7 @@
 # AUTHOR:							Gavin Blakeman.
 # LICENSE:            GPLv2
 #
-#                     Copyright 2022 Gavin Blakeman.
+#                     Copyright 2022-2023 Gavin Blakeman.
 #
 # OVERVIEW:						Project file for compiling the project
 #

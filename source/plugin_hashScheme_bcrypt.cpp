@@ -10,7 +10,7 @@
 #include <crypt.h>
 #include <GCL>
 
-  // engineeringShop header files
+  // msmERP header files
 
 #include "include/pluginInterface/interfaceHashScheme.h"
 
